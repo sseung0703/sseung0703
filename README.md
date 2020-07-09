@@ -5,7 +5,7 @@
   - Tensorflow (1.x and 2.x): intermediate
   - Pytorch: intermediate
   
-## Publish 📜
+## Publication 📜
 ### First author of
   - ["Self-supervised Knowledge Distillation Using Singular Value Decomposition" on ECCV2018](https://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html)
   - ["Graph-based Knowledge Distillation by Multi-head Attention Network." on BMVC2019 oral](https://bmvc2019.org/wp-content/uploads/papers/0821-paper.pdf)
