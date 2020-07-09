@@ -1,5 +1,5 @@
 ## Seunghyun Lee 👋
-- Welcome to my Github page. I am a Ph.D. course student at Inha Univ. in South Korea. My research areas are machine learning, deep learning, and especially the light-weighting convolutional neural networks such as knowledge distillation and filter pruning.
+- Welcome to my Github page. I am a Ph.D. course student at Inha Univ. in South Korea. My research areas are machine learning, deep learning, and especially the light-weighting the convolutional neural networks such as knowledge distillation and filter pruning.
 
 ## Language 🧱
   - Tensorflow (1.x and 2.x): intermediate
