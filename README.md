@@ -19,6 +19,6 @@
 ### and so on
   - [Google scholar](https://scholar.google.co.kr/citations?user=onGHuFsAAAAJ&hl=en)
   
-- Side work
+## Side work 🕹
   - Leader of deep learning paper study group: [link](https://trello.com/b/vCD6pP9t/paper-study)
 
