@@ -1,16 +1,12 @@
-### Hi there 👋
+### Seunghyun Lee 👋
+- Welcome to my Github page. I am a Ph.D. course student at Inha Univ. in South Korea. My research areas are machine learning, deep learning, and especially the light-weighting convolutional neural networks such as knowledge distillation and filter pruning.
 
-<!--
-**sseung0703/sseung0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Language 🧱
+  - Tensorflow (1.x and 2.x): intermediate
+  - Pytorch: intermediate
+  
+- Publish 📜
+  - [Lee et. al. "Self-supervised Knowledge Distillation Using Singular Value Decomposition" ECCV2018](https://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html)
+  - [Lee et. al. "Graph-based Knowledge Distillation by Multi-head Attention Network." BMVC2019 oral](https://bmvc2019.org/wp-content/uploads/papers/0821-paper.pdf)
+  - [and so on](https://scholar.google.co.kr/citations?user=onGHuFsAAAAJ&hl=en)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
