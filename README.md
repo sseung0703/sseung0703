@@ -9,6 +9,7 @@
 ### First author of
   - ["Self-supervised Knowledge Distillation Using Singular Value Decomposition" on ECCV2018](https://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html)
   - ["Graph-based Knowledge Distillation by Multi-head Attention Network." on BMVC2019 oral](https://bmvc2019.org/wp-content/uploads/papers/0821-paper.pdf)
+  - ["Transformation of Non-Euclidean Space to Euclidean Space for Efficient Learning of Singular Vectors"](https://ieeexplore.ieee.org/document/9137281) IEEE Access (2020)
   
 ### Co-author of
   - ["MUNet: macro unit-based convolutional neural network for mobile devices" on CVPRW2018](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w33/html/Kim_MUNet_Macro_Unit-Based_CVPR_2018_paper.html)
