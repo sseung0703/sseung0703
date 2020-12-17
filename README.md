@@ -12,6 +12,7 @@
   - ["Transformation of Non-Euclidean Space to Euclidean Space for Efficient Learning of Singular Vectors" on IEEE Access (2020)](https://ieeexplore.ieee.org/document/9137281)
   - ["Filter Pruning and Re-Initialization via Latent Space Clustering" on IEEE Access (2020)](https://ieeexplore.ieee.org/abstract/document/9223765)
   - ["Knowledge Transfer via Decomposing Essential Information in Convolutional Neural Networks" on IEEE TNNLS (2020)](https://ieeexplore.ieee.org/document/9222552)
+  - "Interpretable Embedding Procedure Knowledge Transfer via Stacked Principal Component Analysis and Graph Neural Network" on AAAI2021
 ### Co-author of
   - ["MUNet: macro unit-based convolutional neural network for mobile devices" on CVPRW2018](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w33/html/Kim_MUNet_Macro_Unit-Based_CVPR_2018_paper.html)
   - ["Metric-Based Regularization and Temporal Ensemble for Multi-Task Learning using Heterogeneous Unsupervised Tasks" on ICCVW2019](https://ieeexplore.ieee.org/abstract/document/9022628)
