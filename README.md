@@ -5,7 +5,7 @@
   - Tensorflow (1.x and 2.x): Upper intermediate
   - Pytorch: intermediate
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sseung0703)](https://github.com/anuraghazra/github-readme-stats&hide=prs,issues,contribs)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sseung0703&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Publication 📜
 ### First author of
