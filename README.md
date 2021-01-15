@@ -2,8 +2,10 @@
 - Welcome to my Github page. I am a Ph.D. course student at Inha Univ. in South Korea. My research areas are machine learning, deep learning, and especially the light-weighting the convolutional neural networks such as knowledge distillation and filter pruning.
 
 ## Language 🧱
-  - Tensorflow (1.x and 2.x): intermediate
+  - Tensorflow (1.x and 2.x): Upper intermediate
   - Pytorch: intermediate
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sseung0703)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Publication 📜
 ### First author of
