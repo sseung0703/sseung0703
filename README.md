@@ -1,4 +1,4 @@
-## Seunghyun Lee 👋
+## Seunghyun Lee 👋 <img src="https://komarev.com/ghpvc/?username=sseung0703" alt="sseung0703" />
 - Welcome to my Github page. I am a Ph.D. course student at Inha Univ. in South Korea. My research areas are machine learning, deep learning, and especially the light-weighting the convolutional neural networks such as knowledge distillation and filter pruning.
 
 ## Language 🧱
