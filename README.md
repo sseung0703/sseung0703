@@ -20,6 +20,7 @@
   - ["Metric-Based Regularization and Temporal Ensemble for Multi-Task Learning using Heterogeneous Unsupervised Tasks" on ICCVW2019](https://ieeexplore.ieee.org/abstract/document/9022628)
   - ["Real-time purchase behavior recognition system based on deep learning-based object detection and tracking for an unmanned product cabinet" on ESWA (2020)](https://www.sciencedirect.com/science/article/pii/S0957417419307808)
   - ["Channel Pruning Via Gradient Of Mutual Information For Light-Weight Convolutional Neural Networks" on ICIP 2020](https://ieeexplore.ieee.org/abstract/document/9190803)
+  - ["Zero-Shot Knowledge Distillation Using Label-Free Adversarial Perturbation With Taylor Approximation" on IEEE Access (2021)](https://ieeexplore.ieee.org/abstract/document/9380328)
   
   
 ### and so on 🎓
