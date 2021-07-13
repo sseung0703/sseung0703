@@ -29,4 +29,4 @@
   
 ## Side work 🕹
   - Leader of deep learning paper study group: [link](https://trello.com/b/vCD6pP9t/paper-study)
-
+  - HuggingFace X GoogleAI Flax/JAX Community Week Event: [putting NeRF on a diet](https://github.com/codestella/putting-nerf-on-a-diet)
