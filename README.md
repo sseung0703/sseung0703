@@ -7,7 +7,11 @@
   - JAX: beginner
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sseung0703&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+## Side work 🕹
+  - Leader of deep learning paper study group: [link](https://trello.com/b/vCD6pP9t/paper-study)
+  - Implementation project for [Putting NeRF on a Diet](https://github.com/codestella/putting-nerf-on-a-diet) in 🤗HuggingFace X GoogleAI Flax/JAX Community Week Event
+    (selected as the top-15 projects 😆)
 ## Publication 📜
 ### First author of
   - ["Self-supervised Knowledge Distillation Using Singular Value Decomposition" on ECCV2018](https://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html)
@@ -26,7 +30,3 @@
   
 ### and so on 🎓
   - [Google scholar](https://scholar.google.co.kr/citations?user=onGHuFsAAAAJ&hl=en)
-  
-## Side work 🕹
-  - Leader of deep learning paper study group: [link](https://trello.com/b/vCD6pP9t/paper-study)
-  - HuggingFace X GoogleAI Flax/JAX Community Week Event: [putting NeRF on a diet](https://github.com/codestella/putting-nerf-on-a-diet)
