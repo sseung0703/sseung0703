@@ -1,7 +1,7 @@
 ## Seunghyun Lee 👋 <img src="https://komarev.com/ghpvc/?username=sseung0703" alt="sseung0703" />
 - Welcome to my Github page. I am a Ph.D. course student at Inha Univ. in South Korea. My research areas are machine learning, deep learning, and especially the light-weighting the convolutional neural networks such as knowledge distillation and filter pruning.
 
-## Language 🧱
+## ML libraries 🧱
   - Tensorflow (1.x and 2.x): Upper intermediate
   - Pytorch: intermediate
   - JAX: beginner
@@ -11,7 +11,7 @@
 ## Side work 🕹
   - Leader of deep learning paper study group: [link](https://trello.com/b/vCD6pP9t/paper-study)
   - Implementation project for [Putting NeRF on a Diet](https://github.com/codestella/putting-nerf-on-a-diet) in 🤗HuggingFace X GoogleAI Flax/JAX Community Week Event
-    (selected as the top-15 projects 😆)
+    - (selected as the top-15 projects 😆)
 ## Publication 📜
 ### First author of
   - ["Self-supervised Knowledge Distillation Using Singular Value Decomposition" on ECCV2018](https://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html)
