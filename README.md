@@ -10,7 +10,7 @@
 
 ## Side work 🕹
   - Leader of deep learning paper study group: [link](https://trello.com/b/vCD6pP9t/paper-study)
-  - Major contributor of the implementation project for [Putting NeRF on a Diet](https://github.com/codestella/putting-nerf-on-a-diet) in 🤗HuggingFace X GoogleAI Flax/JAX Community Week Event (selected as the top-15 projects 😆)
+  - Major contributor of the implementation project for [Putting NeRF on a Diet](https://github.com/codestella/putting-nerf-on-a-diet) in 🤗HuggingFace X GoogleAI Flax/JAX Community Week Event (won the 2nd price! 😆)
 ## Publication 📜
 ### First author of
   - ["Self-supervised Knowledge Distillation Using Singular Value Decomposition" on ECCV2018](https://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html)
