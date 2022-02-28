@@ -30,7 +30,7 @@
   - ["Channel Pruning Via Gradient Of Mutual Information For Light-Weight Convolutional Neural Networks" on ICIP 2020](https://ieeexplore.ieee.org/abstract/document/9190803)
   - ["Zero-Shot Knowledge Distillation Using Label-Free Adversarial Perturbation With Taylor Approximation" on IEEE Access (2021)](https://ieeexplore.ieee.org/abstract/document/9380328)
   - ["Contextual Gradient Scaling for Few-Shot Learning" on WACV2022](https://arxiv.org/abs/2110.10353)
-  
-  
+  - ["Vision Transformer for Small-Size Datasets" on arxiv preprint](https://arxiv.org/abs/2112.13492)
+ 
 ### and so on 🎓
   - [Google scholar](https://scholar.google.co.kr/citations?user=onGHuFsAAAAJ&hl=en)
