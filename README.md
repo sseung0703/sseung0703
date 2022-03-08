@@ -23,6 +23,8 @@
   - "Filter Pruning and Re-Initialization via Latent Space Clustering" on IEEE Access (2020) [[paper](https://ieeexplore.ieee.org/abstract/document/9223765)]
   - "Knowledge Transfer via Decomposing Essential Information in Convolutional Neural Networks" on IEEE TNNLS (2020) [[paper](https://ieeexplore.ieee.org/document/9222552)] [[TF1 code](https://github.com/sseung0703/KD_methods_with_TF), [TF2 code](https://github.com/sseung0703/Knowledge_distillation_via_TF2.0)]
   - "Interpretable Embedding Procedure Knowledge Transfer via Stacked Principal Component Analysis and Graph Neural Network" on AAAI2021 [[paper](https://arxiv.org/abs/2104.13561)] [[code](https://github.com/sseung0703/IEPKT)]
+  - "Ensemble Knowledge Guided Sub-network Search and Fine-tuning for Filter Pruning" on arxiv preprint [[paper](https://arxiv.org/abs/2203.02651)] [[code](https://github.com/sseung0703/EKG)] 
+
 
 ### Co-author of
   - "MUNet: macro unit-based convolutional neural network for mobile devices" on CVPRW2018 [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w33/html/Kim_MUNet_Macro_Unit-Based_CVPR_2018_paper.html)]
