@@ -37,4 +37,4 @@
  
 ### and so on 🎓
   - [Google scholar](https://scholar.google.co.kr/citations?user=onGHuFsAAAAJ&hl=en)
-  - [Curriculum Vitae](https://docs.google.com/document/d/14qPP9v5pSCpaRWxdEKZj50UL1qb3bheM0mvK-4fSSXU/edit?usp=sharing)
+  - [Curriculum Vitae](https://docs.google.com/document/d/e/2PACX-1vSyW0NjszxZd_hQAdyuykIQJwOx9GFWXsbXTLCx76AqyPSOBktd-Sg3QeH12wNoTzoxhuygTipTtvam/pub)
