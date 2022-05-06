@@ -11,6 +11,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sseung0703&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Academic activity 🕹
+  - Google developers experts from May 2022
   - Leader of deep learning paper study group: [link](https://trello.com/b/vCD6pP9t/paper-study)
   - Major contributor of the implementation project for [Putting NeRF on a Diet](https://github.com/codestella/putting-nerf-on-a-diet)
     
