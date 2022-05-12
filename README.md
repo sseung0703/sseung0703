@@ -16,7 +16,7 @@
   - Major contributor of the implementation project for [Putting NeRF on a Diet](https://github.com/codestella/putting-nerf-on-a-diet)
     
     in 🤗HuggingFace X GoogleAI Flax/JAX Community Week Event (won the 2nd price! 😆)
-  - Have served as a reviewer for Neural Networks.
+  - Have served as a reviewer for Neural Networks, ECCV.
     
 ## Publication 📜
 ### First author of
