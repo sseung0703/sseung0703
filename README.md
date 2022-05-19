@@ -6,7 +6,7 @@
 ## ML libraries 🧱
   - Tensorflow (1.x and 2.x): Professional
   - Pytorch: Upper intermediate
-  - JAX: beginner
+  - JAX: intermediate
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sseung0703&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
