@@ -32,6 +32,7 @@
 
 
 ### Co-author of
+  - "Balanced knowledge distillation for one-stage object detector" on Neurocomputing (2022) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222006725)]
   - "Vision Transformer for Small-Size Datasets" on arxiv preprint [[paper](https://arxiv.org/abs/2112.13492)] [[code](https://github.com/aanna0701/SPT_LSA_ViT)]
   - "Contextual Gradient Scaling for Few-Shot Learning" on WACV2022 [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Lee_Contextual_Gradient_Scaling_for_Few-Shot_Learning_WACV_2022_paper.html)] [[code](https://github.com/shlee625/CxGrad)]
   - "Zero-Shot Knowledge Distillation Using Label-Free Adversarial Perturbation With Taylor Approximation" on IEEE Access (2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9380328)] [[code](https://github.com/sseung0703/ACCESS_KD)]
