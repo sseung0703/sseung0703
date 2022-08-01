@@ -6,7 +6,7 @@
 ## ML libraries 🧱
   - Tensorflow (1.x and 2.x): Professional
   - Pytorch: Upper intermediate
-  - JAX: intermediate
+  - JAX: Upper intermediate
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sseung0703&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,9 +14,8 @@
   - Google developers experts from May 2022
   - Leader of deep learning paper study group: [link](https://trello.com/b/vCD6pP9t/paper-study)
   - Major contributor of the implementation project for [Putting NeRF on a Diet](https://github.com/codestella/putting-nerf-on-a-diet)
-    
     in 🤗HuggingFace X GoogleAI Flax/JAX Community Week Event (won the 2nd price! 😆)
-  - Have served as a reviewer for Neural Networks, ECCV.
+  - Have served as a reviewer for Neural Networks, ECCV, and WACV.
     
 ## Publication 📜
 ### First author of
@@ -28,11 +27,8 @@
   - "Graph-based Knowledge Distillation by Multi-head Attention Network." on BMVC2019 oral [[paper](https://bmvc2019.org/wp-content/uploads/papers/0821-paper.pdf)] [[code](https://github.com/sseung0703/KD_methods_with_TF)]
   - "Self-supervised Knowledge Distillation Using Singular Value Decomposition" on ECCV2018 [[paper](https://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html)] [[TF1 code](https://github.com/sseung0703/KD_methods_with_TF), [TF2 code](https://github.com/sseung0703/Knowledge_distillation_via_TF2.0)]
   
-  
-
-
 ### Co-author of
-  - "CFA: Coupled-hypersphere-based Feature Adaptation for Target-Oriented Anomaly Localization" on arxiv preprint [[paper](https://arxiv.org/abs/2206.04325), [code](https://github.com/sungwool/CFA_for_anomaly_localization)]
+  - "CFA: Coupled-hypersphere-based Feature Adaptation for Target-Oriented Anomaly Localization" on IEEE Access (2022) [[paper](https://ieeexplore.ieee.org/document/9839549), [code](https://github.com/sungwool/CFA_for_anomaly_localization)]
   - "Balanced knowledge distillation for one-stage object detector" on Neurocomputing (2022) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222006725)]
   - "Vision Transformer for Small-Size Datasets" on arxiv preprint [[paper](https://arxiv.org/abs/2112.13492)] [[code](https://github.com/aanna0701/SPT_LSA_ViT)]
   - "Contextual Gradient Scaling for Few-Shot Learning" on WACV2022 [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Lee_Contextual_Gradient_Scaling_for_Few-Shot_Learning_WACV_2022_paper.html)] [[code](https://github.com/shlee625/CxGrad)]
