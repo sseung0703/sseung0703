@@ -1,5 +1,5 @@
 ## Seunghyun Lee 👋 <img src="https://komarev.com/ghpvc/?username=sseung0703" alt="sseung0703" /> 
-- Welcome to my Github page. I am a Ph.D. candidate (expected March 2023) at Inha University in South Korea. <br>
+- Welcome to my Github page. I am a Ph.D at Inha University in South Korea. <br>
   My research areas are machine learning, deep learning, and especially the light-weighting the convolutional neural networks such as knowledge distillation and filter pruning. <br>
   You can find my curriculum vitae [here](https://docs.google.com/document/d/e/2PACX-1vSyW0NjszxZd_hQAdyuykIQJwOx9GFWXsbXTLCx76AqyPSOBktd-Sg3QeH12wNoTzoxhuygTipTtvam/pub).
 
@@ -15,11 +15,13 @@
   - Leader of deep learning paper study group: [link](https://trello.com/b/vCD6pP9t/paper-study)
   - Major contributor of the implementation project for [Putting NeRF on a Diet](https://github.com/codestella/putting-nerf-on-a-diet)
     in 🤗HuggingFace X GoogleAI Flax/JAX Community Week Event (won the 2nd price! 😆)
-  - Have served as a reviewer for Neural Networks, ECCV, and WACV.
+  - Have served as a reviewer for CVPR, ICCV, ECCV, and so on.
     
 ## Publication 📜
 ### First author of
-  - "Ensemble Knowledge Guided Sub-network Search and Fine-tuning for Filter Pruning" on ECCV2022 [[paper](https://arxiv.org/abs/2203.02651)] [[code](https://github.com/sseung0703/EKG)] 
+  - "Fast Filter Pruning via Coarse-to-Fine Neural Architecture Search and Contrastive Knowledge Transfer" on IEEE TNNLS (2020) [[paper](https://ieeexplore.ieee.org/abstract/document/10018843)]
+  - "Ensemble Knowledge Guided Sub-network Search and Fine-tuning for Filter Pruning" on ECCV2022 [[paper](https://arxiv.org/abs/2203.02651)] [[code](https://github.com/sseung0703/EKG)]
+  - "Ensemble Knowledge Guided Sub-network Search and Fine-tuning for Filter Pruning" on ECCV2022 [[paper](https://arxiv.org/abs/2203.02651)] [[code](https://github.com/sseung0703/EKG)]
   - "Interpretable Embedding Procedure Knowledge Transfer via Stacked Principal Component Analysis and Graph Neural Network" on AAAI2021 [[paper](https://arxiv.org/abs/2104.13561)] [[code](https://github.com/sseung0703/IEPKT)]
   - "Knowledge Transfer via Decomposing Essential Information in Convolutional Neural Networks" on IEEE TNNLS (2020) [[paper](https://ieeexplore.ieee.org/document/9222552)] [[TF1 code](https://github.com/sseung0703/KD_methods_with_TF), [TF2 code](https://github.com/sseung0703/Knowledge_distillation_via_TF2.0)]
   - "Filter Pruning and Re-Initialization via Latent Space Clustering" on IEEE Access (2020) [[paper](https://ieeexplore.ieee.org/abstract/document/9223765)]
